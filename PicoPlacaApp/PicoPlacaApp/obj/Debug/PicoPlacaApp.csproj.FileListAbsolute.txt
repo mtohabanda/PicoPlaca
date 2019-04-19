@@ -1,0 +1,15 @@
+C:\Users\SONY\Desktop\PicoPlaca\PicoPlacaApp\PicoPlacaApp\bin\Debug\PicoPlacaApp.exe.config
+C:\Users\SONY\Desktop\PicoPlaca\PicoPlacaApp\PicoPlacaApp\bin\Debug\PicoPlacaApp.exe
+C:\Users\SONY\Desktop\PicoPlaca\PicoPlacaApp\PicoPlacaApp\bin\Debug\PicoPlacaApp.pdb
+C:\Users\SONY\Desktop\PicoPlaca\PicoPlacaApp\PicoPlacaApp\bin\Debug\BusinessLogic.dll
+C:\Users\SONY\Desktop\PicoPlaca\PicoPlacaApp\PicoPlacaApp\bin\Debug\Entity.dll
+C:\Users\SONY\Desktop\PicoPlaca\PicoPlacaApp\PicoPlacaApp\bin\Debug\Data.dll
+C:\Users\SONY\Desktop\PicoPlaca\PicoPlacaApp\PicoPlacaApp\bin\Debug\BusinessLogic.pdb
+C:\Users\SONY\Desktop\PicoPlaca\PicoPlacaApp\PicoPlacaApp\bin\Debug\Entity.pdb
+C:\Users\SONY\Desktop\PicoPlaca\PicoPlacaApp\PicoPlacaApp\bin\Debug\Data.pdb
+C:\Users\SONY\Desktop\PicoPlaca\PicoPlacaApp\PicoPlacaApp\obj\Debug\PicoPlacaApp.csprojResolveAssemblyReference.cache
+C:\Users\SONY\Desktop\PicoPlaca\PicoPlacaApp\PicoPlacaApp\obj\Debug\PicoPlacaApp.Form1.resources
+C:\Users\SONY\Desktop\PicoPlaca\PicoPlacaApp\PicoPlacaApp\obj\Debug\PicoPlacaApp.Properties.Resources.resources
+C:\Users\SONY\Desktop\PicoPlaca\PicoPlacaApp\PicoPlacaApp\obj\Debug\PicoPlacaApp.csproj.GenerateResource.Cache
+C:\Users\SONY\Desktop\PicoPlaca\PicoPlacaApp\PicoPlacaApp\obj\Debug\PicoPlacaApp.exe
+C:\Users\SONY\Desktop\PicoPlaca\PicoPlacaApp\PicoPlacaApp\obj\Debug\PicoPlacaApp.pdb

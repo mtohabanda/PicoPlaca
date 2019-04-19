@@ -1,0 +1,9 @@
+C:\Users\SONY\Desktop\PicoPlaca\PicoPlacaApp\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\SONY\Desktop\PicoPlaca\PicoPlacaApp\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\SONY\Desktop\PicoPlaca\PicoPlacaApp\BusinessLogic\bin\Debug\Data.dll
+C:\Users\SONY\Desktop\PicoPlaca\PicoPlacaApp\BusinessLogic\bin\Debug\Entity.dll
+C:\Users\SONY\Desktop\PicoPlaca\PicoPlacaApp\BusinessLogic\bin\Debug\Data.pdb
+C:\Users\SONY\Desktop\PicoPlaca\PicoPlacaApp\BusinessLogic\bin\Debug\Entity.pdb
+C:\Users\SONY\Desktop\PicoPlaca\PicoPlacaApp\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\SONY\Desktop\PicoPlaca\PicoPlacaApp\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\SONY\Desktop\PicoPlaca\PicoPlacaApp\BusinessLogic\obj\Debug\BusinessLogic.pdb

@@ -1,0 +1,15 @@
+C:\Users\SONY\Desktop\PicoPlaca\PicoPlacaApp\UnitTestPicoPlaca\bin\Debug\UnitTestPicoPlaca.dll
+C:\Users\SONY\Desktop\PicoPlaca\PicoPlacaApp\UnitTestPicoPlaca\bin\Debug\UnitTestPicoPlaca.pdb
+C:\Users\SONY\Desktop\PicoPlaca\PicoPlacaApp\UnitTestPicoPlaca\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\SONY\Desktop\PicoPlaca\PicoPlacaApp\UnitTestPicoPlaca\bin\Debug\PicoPlacaApp.exe
+C:\Users\SONY\Desktop\PicoPlaca\PicoPlacaApp\UnitTestPicoPlaca\bin\Debug\BusinessLogic.dll
+C:\Users\SONY\Desktop\PicoPlaca\PicoPlacaApp\UnitTestPicoPlaca\bin\Debug\Entity.dll
+C:\Users\SONY\Desktop\PicoPlaca\PicoPlacaApp\UnitTestPicoPlaca\bin\Debug\Data.dll
+C:\Users\SONY\Desktop\PicoPlaca\PicoPlacaApp\UnitTestPicoPlaca\bin\Debug\PicoPlacaApp.pdb
+C:\Users\SONY\Desktop\PicoPlaca\PicoPlacaApp\UnitTestPicoPlaca\bin\Debug\BusinessLogic.pdb
+C:\Users\SONY\Desktop\PicoPlaca\PicoPlacaApp\UnitTestPicoPlaca\bin\Debug\Entity.pdb
+C:\Users\SONY\Desktop\PicoPlaca\PicoPlacaApp\UnitTestPicoPlaca\bin\Debug\Data.pdb
+C:\Users\SONY\Desktop\PicoPlaca\PicoPlacaApp\UnitTestPicoPlaca\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\SONY\Desktop\PicoPlaca\PicoPlacaApp\UnitTestPicoPlaca\obj\Debug\UnitTestPicoPlaca.csprojResolveAssemblyReference.cache
+C:\Users\SONY\Desktop\PicoPlaca\PicoPlacaApp\UnitTestPicoPlaca\obj\Debug\UnitTestPicoPlaca.dll
+C:\Users\SONY\Desktop\PicoPlaca\PicoPlacaApp\UnitTestPicoPlaca\obj\Debug\UnitTestPicoPlaca.pdb

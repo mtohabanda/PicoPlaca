@@ -1,0 +1,2 @@
+* The task is created on visual studio 2015.
+* I used this link http://www.amt.gob.ec/index.php/servicios/pico-y-placa.html to get information about pico placa in Ecuador in order to accomplish the task.

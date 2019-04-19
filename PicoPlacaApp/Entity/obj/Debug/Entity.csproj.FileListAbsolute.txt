@@ -1,0 +1,5 @@
+C:\Users\SONY\Desktop\PicoPlaca\PicoPlacaApp\Entity\bin\Debug\Entity.dll
+C:\Users\SONY\Desktop\PicoPlaca\PicoPlacaApp\Entity\bin\Debug\Entity.pdb
+C:\Users\SONY\Desktop\PicoPlaca\PicoPlacaApp\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\Users\SONY\Desktop\PicoPlaca\PicoPlacaApp\Entity\obj\Debug\Entity.dll
+C:\Users\SONY\Desktop\PicoPlaca\PicoPlacaApp\Entity\obj\Debug\Entity.pdb
